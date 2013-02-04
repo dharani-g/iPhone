@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd">
+<plist version="1.0">
+    <dict>
+        <key>Production</key>
+        <dict>
+            <key>WebService</key>
+            <array>
+                <dict>
+                    <key>port</key>
+                    <string>2020</string>
+
+                    <key>username</key>
+                    <string></string>
+
+                    <key>protocol</key>
+                    <string>http</string>
+
+                    <key>host</key>
+                    <string>172.16.17.180</string>
+
+                    <key>name</key>
+                    <string>Wserver</string>
+
+                    <key>context</key>
+                    <string>eshop</string>
+
+                    <key>password</key>
+                    <string></string>
+                </dict>
+                <dict>
+                    <key>port</key>
+                    <string>2020</string>
+
+                    <key>username</key>
+                    <string></string>
+
+                    <key>protocol</key>
+                    <string>http</string>
+
+                    <key>host</key>
+                    <string>172.16.17.180</string>
+
+                    <key>name</key>
+                    <string>Wserver</string>
+
+                    <key>context</key>
+                    <string>eshop</string>
+
+                    <key>password</key>
+                    <string></string>
+                </dict>
+            </array>
+        </dict>
+    </dict>
+</plist>
